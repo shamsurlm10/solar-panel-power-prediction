@@ -1,0 +1,9 @@
+venv/
+.env
+training/datasets
+training/checkpoint
+training/.ipynb_checkpoints
+training/checkpoint
+sol_data_splitted/
+MobileFrontend/node_modules
+frontend/node_modules
